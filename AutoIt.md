@@ -17,6 +17,8 @@
 
 [Experimental Maps UDF](https://github.com/TheDcoder/Experimental-Maps-UDF) - UDF for Maps (the new *alpha* datatype)
 
+[TheDcoder's IRC UDF](https://www.autoitscript.com/forum/topic/181940-thedcoders-irc-udf-full-compliance-with-rfc-2812-and-ircv31/#comment-1306546) - Full compliance with IRCv3.1
+
 ## Programs
 
 [DcoderBot](https://github.com/TheDcoder/IRC-Bot-Base-for-AutoIt) - IRC Bot Base for AutoIt
