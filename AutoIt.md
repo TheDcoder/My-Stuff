@@ -19,6 +19,8 @@
 
 ## Programs
 
+[DcoderBot](https://github.com/TheDcoder/IRC-Bot-Base-for-AutoIt) - IRC Bot Base for AutoIt
+
 [Magic Number Calculator](https://www.autoitscript.com/forum/topic/174241-magic-number-calculator) - (**Discontinued**) Converts magic numbers to constants.
 
 ## Articles
