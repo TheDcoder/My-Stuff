@@ -13,3 +13,4 @@
 
 ## UDFs
 
+[Process UDF](https://www.autoitscript.com/forum/topic/174697-process-udf-get-both-the-output-the-exit-code/#comment-1264810) - Get both the output & the exit code of a command with a single line of code.
