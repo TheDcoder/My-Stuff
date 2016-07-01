@@ -20,3 +20,5 @@
 ## Programs
 
 [Magic Number Calculator](https://www.autoitscript.com/forum/topic/174241-magic-number-calculator) - (**Discontinued**) Converts magic numbers to constants.
+
+## Articles
