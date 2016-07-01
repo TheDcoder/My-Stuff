@@ -22,3 +22,9 @@
 [Magic Number Calculator](https://www.autoitscript.com/forum/topic/174241-magic-number-calculator) - (**Discontinued**) Converts magic numbers to constants.
 
 ## Articles
+
+[History of AutoIt](https://www.autoitscript.com/wiki/History) - as a timeline.
+
+[Arrays 101: All you need to know about them!](https://www.autoitscript.com/forum/topic/178127-arrays-101-all-you-need-to-know-about-them/#comment-1277994) - A nice documentation of the Array datatype in AutoIt.
+
+[Maps 101: All you need to know about them!](https://www.autoitscript.com/forum/topic/178187-maps-101-all-you-need-to-know-about-them/#comment-1278462) - A nice documentation of the Map (currently in development) datatype in AutoIt.
