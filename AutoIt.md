@@ -9,7 +9,7 @@
 
 [ArraySplit](https://www.autoitscript.com/forum/topic/139260-autoit-snippets/?page=11#comment-1256397) - Simply put, Converts an 1D Array to an 2D Array based on Delimiters (See the example if you want to know what it does clearly)
 
-[IsMgcNumPresent](https://www.autoitscript.com/forum/topic/139260-autoit-snippets/?page=13#comment-1285984) - See post for more details :P
+[IsMgcNumPresent](https://git.io/vPFjk) - Checks if a number is a present in a number (Magic numbers aka Powers of 2)
 
 ## UDFs
 
