@@ -1,5 +1,7 @@
 # My AutoIt Stuff
 
+[I have made several tickets](https://www.autoitscript.com/trac/autoit/query?reporter=%5ETheDcoder&col=id&col=summary&col=owner&col=type&col=status&col=cc&desc=1&order=id) in [AutoIt's Bug Tracker](https://www.autoitscript.com/trac/autoit).
+
 ## Snippets
 [StringTrimLeftUntil & StringTrimRightUntil](https://www.autoitscript.com/forum/topic/139260-autoit-snippets/?page=10#comment-1250764) - Does what it says
 
