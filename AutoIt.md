@@ -3,21 +3,21 @@
 [I have made several tickets](https://www.autoitscript.com/trac/autoit/query?reporter=%5ETheDcoder&col=id&col=summary&col=owner&col=type&col=status&col=cc&desc=1&order=id) in [AutoIt's Bug Tracker](https://www.autoitscript.com/trac/autoit).
 
 ## Snippets
-[StringTrimLeftUntil & StringTrimRightUntil](https://www.autoitscript.com/forum/topic/139260-autoit-snippets/?page=10#comment-1250764) - Does what it says
+[`StringTrimLeftUntil` & `StringTrimRightUntil`](https://www.autoitscript.com/forum/topic/139260-autoit-snippets/?page=10#comment-1250764) - Does what it says
 
-[StringLeftUntil & StringRightUntil](https://www.autoitscript.com/forum/topic/139260-autoit-snippets/?page=12#comment-1257918) - Does what it says
+[`StringLeftUntil` & `StringRightUntil`](https://www.autoitscript.com/forum/topic/139260-autoit-snippets/?page=12#comment-1257918) - Does what it says
 
-[CalcPercent](https://www.autoitscript.com/forum/topic/139260-autoit-snippets/?page=11#comment-1254091) - Clean calculations
+[`CalcPercent`](https://www.autoitscript.com/forum/topic/139260-autoit-snippets/?page=11#comment-1254091) - Clean calculations
 
-[ArraySplit](https://www.autoitscript.com/forum/topic/139260-autoit-snippets/?page=11#comment-1256397) - Simply put, Converts an 1D Array to an 2D Array based on Delimiters (See the example if you want to know what it does clearly)
+[`ArraySplit`](https://www.autoitscript.com/forum/topic/139260-autoit-snippets/?page=11#comment-1256397) - Simply put, Converts an 1D Array to an 2D Array based on Delimiters (See the example if you want to know what it does clearly)
 
-[IsMgcNumPresent](https://git.io/vPFjk) - Checks if a number is a present in a number (Magic numbers aka Powers of 2)
+[`IsMgcNumPresent`](https://git.io/vPFjk) - Checks if a number is a present in a number (Magic numbers aka Powers of 2)
 
-[IniReadWrite](https://gist.github.com/TheDcoder/b5035d600b7a130ea45311541a15a555) - Wrapper for IniRead. Writes the "default" value to the Ini file if the key does not exist! Very useful to generate `config.ini` by just replacing `IniRead` with `IniReadWrite`
+[`IniReadWrite`](https://gist.github.com/TheDcoder/b5035d600b7a130ea45311541a15a555) - Wrapper for IniRead. Writes the "default" value to the Ini file if the key does not exist! Very useful to generate `config.ini` by just replacing `IniRead` with `IniReadWrite`
 
-[_IEWaitForTagText](https://git.io/vHxOT) - Waits for a HTML tag to appear with the specified text
+[`_IEWaitForTagText`](https://git.io/vHxOT) - Waits for a HTML tag to appear with the specified text
 
-[ConvertTime12To24](https://git.io/vdWnY) - Converts 12 hour time to 24 hour time, made while keeping _DateDiff's format in mind :) 
+[`ConvertTime12To24`](https://git.io/vdWnY) - Converts 12 hour time to 24 hour time, made while keeping _DateDiff's format in mind :)
 
 ## UDFs
 
