@@ -15,6 +15,8 @@
 
 [IniReadWrite](https://gist.github.com/TheDcoder/b5035d600b7a130ea45311541a15a555) - Wrapper for IniRead. Writes the "default" value to the Ini file if the key does not exist! Very useful to generate `config.ini` by just replacing `IniRead` with `IniReadWrite`
 
+[_IEWaitForTagText](https://git.io/vHxOT) - Waits for a HTML tag to appear with the specified text
+
 ## UDFs
 
 [Process UDF](https://www.autoitscript.com/forum/topic/174697-process-udf-get-both-the-output-the-exit-code/#comment-1264810) - Get both the output & the exit code of a command with a single line of code.
