@@ -19,6 +19,8 @@
 
 [`ConvertTime12To24`](https://git.io/vdWnY) - Converts 12 hour time to 24 hour time, made while keeping _DateDiff's format in mind :)
 
+[`IsWindowNotResponding`](https://git.io/vbcvJ) -  Programatically check for "This window is not responding" in AutoIt
+
 ## UDFs
 
 [Process UDF](https://www.autoitscript.com/forum/topic/174697-process-udf-get-both-the-output-the-exit-code/#comment-1264810) - Get both the output & the exit code of a command with a single line of code.
