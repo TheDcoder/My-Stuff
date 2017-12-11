@@ -3,6 +3,8 @@
 [I have made several tickets](https://www.autoitscript.com/trac/autoit/query?reporter=%5ETheDcoder&col=id&col=summary&col=owner&col=type&col=status&col=cc&desc=1&order=id) in [AutoIt's Bug Tracker](https://www.autoitscript.com/trac/autoit).
 
 ## Snippets
+
+### User Defined Functions
 [`StringTrimLeftUntil` & `StringTrimRightUntil`](https://www.autoitscript.com/forum/topic/139260-autoit-snippets/?page=10#comment-1250764) - Does what it says
 
 [`StringLeftUntil` & `StringRightUntil`](https://www.autoitscript.com/forum/topic/139260-autoit-snippets/?page=12#comment-1257918) - Does what it says
@@ -20,6 +22,10 @@
 [`ConvertTime12To24`](https://git.io/vdWnY) - Converts 12 hour time to 24 hour time, made while keeping _DateDiff's format in mind :)
 
 [`IsWindowNotResponding`](https://git.io/vbcvJ) -  Programatically check for "This window is not responding" in AutoIt
+
+### Code Examples
+
+* [Generate custom/fake/pseudo events in OnEvent mode](https://git.io/vbRQ5)
 
 ## UDFs
 
