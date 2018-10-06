@@ -1,5 +1,8 @@
 # JavaScript
 
+## Userscripts
+[`monitor_focus.user.js`](https://git.io/fx3ph) - A quick and dirty focus tracker, logs the currently focused element to console
+
 ## Libraries and code snippets
 [`shortcuts.js`](http://www.openjs.com/scripts/events/keyboard_shortcuts/) - A small and easy-to-use library which can be used to implement keyboard shortcuts.
 
