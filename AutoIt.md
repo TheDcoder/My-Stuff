@@ -23,6 +23,8 @@
 
 [`IsWindowNotResponding`](https://git.io/vbcvJ) -  Programatically check for "This window is not responding" in AutoIt
 
+[`InteractiveCoordinateSelect`](https://git.io/fh9md) - Lets the user interactively select a point on the screen
+
 ### Code Examples
 
 * [Generate custom/fake/pseudo events in OnEvent mode](https://git.io/vbRQ5)
