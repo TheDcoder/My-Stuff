@@ -37,6 +37,8 @@
 
 [TheDcoder's IRC UDF](https://www.autoitscript.com/forum/topic/181940-thedcoders-irc-udf-full-compliance-with-rfc-2812-and-ircv31/#comment-1306546) - Full compliance with IRCv3.1
 
+[_Translate](https://github.com/TheDcoder/_Translate) - Simple translation library/UDF for AutoIt
+
 ## Programs
 
 [DcoderBot](https://github.com/TheDcoder/IRC-Bot-Base-for-AutoIt) - IRC Bot Base for AutoIt
